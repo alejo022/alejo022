@@ -1,6 +1,5 @@
-## Hi, I'm Alejandro 👋👨‍💻👨‍💻
 
-<h1 align="center">Hi 👋, I'm Alejandro Valencia</h1>
+<h1 align="center">Hi 👋, I'm Alejandro Valencia 👨‍💻</h1>
 
 ![1638810773948](https://user-images.githubusercontent.com/47680160/190920181-87ff5992-35d8-4069-9fbd-4650ae5b0317.jpg)
 
