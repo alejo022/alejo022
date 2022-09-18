@@ -3,7 +3,7 @@
 ![1638810773948](https://user-images.githubusercontent.com/47680160/190920181-87ff5992-35d8-4069-9fbd-4650ae5b0317.jpg)
 
 
--[Instagram](https://www.instagram.com/alejovalencia01)
+- [Instagram](https://www.instagram.com/alejovalencia01)
 
 <!--
 **alejo022/alejo022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
