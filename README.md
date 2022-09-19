@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript, React**
 
-- 👨‍💻 All of my projects are available at [alejandrovalencia.tk](alejandrovalencia.tk)
+- 👨‍💻 All of my projects are available at [alejandrovalencia.tk](https://alejandrovalencia.tk)
 
 - 💬 Ask me about **CSS, HTML, LARAVEL**
 
