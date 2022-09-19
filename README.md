@@ -4,16 +4,9 @@
 ![1638810773948](https://user-images.githubusercontent.com/47680160/190920181-87ff5992-35d8-4069-9fbd-4650ae5b0317.jpg)
 
 
-
-<h3 align="center">A passionate frontend developer from Colombia</h3>
-
-- 🔭 I’m currently working on [Proyecto de desarrollo economico sostenible](https://inscripcion.cetiia.com.co/)
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Javascript, React**
-
-- 👯 I’m looking to collaborate on **Comunidades de codigo abierto**
-
-- 🤝 I’m looking for help with [Mejoras en mi portafolio personal](alejandrovalencia.tk)
 
 - 👨‍💻 All of my projects are available at [alejandrovalencia.tk](alejandrovalencia.tk)
 
@@ -33,7 +26,7 @@
 
 
 
-> ## Find me around the web 🌍:
+ ## Find me around the web 🌍:
 - [Instagram](https://www.instagram.com/alejovalencia01)
 - [Pagina web](https://alejandrovalencia.tk)
 
