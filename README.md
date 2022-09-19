@@ -28,7 +28,7 @@
 
 ![alejo022's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejo022&count_private=true&show_icons=true&theme=github_dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejo022&repo=github-readme-stats)](https://github.com/alejo022/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejo022)]
 
 <!--
 **alejo022/alejo022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
