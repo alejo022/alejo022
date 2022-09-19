@@ -3,18 +3,18 @@
 
 ![1638810773948](https://user-images.githubusercontent.com/47680160/190920181-87ff5992-35d8-4069-9fbd-4650ae5b0317.jpg)
 
-
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Javascript, React**
 
 - 👨‍💻 All of my projects are available at [alejandrovalencia.tk](alejandrovalencia.tk)
 
-- 💬 Ask me about **CSS, HTML, Laravel**
+- 💬 Ask me about **CSS, HTML, LARAVEL**
 
 - 📫 How to reach me **stivenvalencia.81@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Find me around the web 🌍:
+
 <p align="left">
 <a href="https://twitter.com/vc_stiven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vc_stiven" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//alejandro-valencia-360410129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/alejandro-valencia-360410129" height="30" width="40" /></a>
@@ -26,9 +26,6 @@
 
 
 
- ## Find me around the web 🌍:
-- [Instagram](https://www.instagram.com/alejovalencia01)
-- [Pagina web](https://alejandrovalencia.tk)
 
 
 [![alejo022's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejo022)](https://github.com/anuraghazra/github-readme-stats)
