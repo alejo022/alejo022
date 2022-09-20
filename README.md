@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **stivenvalencia.81@gmail.com**
 
-## Find me around the web 🌍:
+## Find me around the web:
 
 <p align="left">
 <a href="https://twitter.com/vc_stiven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vc_stiven" height="30" width="40" /></a>
