@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [alejandrovalencia.tk](https://alejandrovalencia.tk)
 
-- 💬 Ask me about **CSS, HTML, LARAVEL**
+- 💬 Ask me about **CSS, HTML, LARAVEL, JAVASCRIPT**
 
 - 📫 How to reach me **stivenvalencia.81@gmail.com**
 
