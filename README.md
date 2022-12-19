@@ -1,11 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Alejandro Valencia 👨‍💻✨</h1>
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="![1638810773948](https://user-images.githubusercontent.com/47680160/190920181-87ff5992-35d8-4069-9fbd-4650ae5b0317.jpg)">
- <source media="(prefers-color-scheme: light)" srcset="![1638810773948](https://user-images.githubusercontent.com/47680160/190920181-87ff5992-35d8-4069-9fbd-4650ae5b0317.jpg)">
- <img alt="YOUR-ALT-TEXT" src="![1638810773948](https://user-images.githubusercontent.com/47680160/190920181-87ff5992-35d8-4069-9fbd-4650ae5b0317.jpg)">
-</picture>
+![1638810773948](https://user-images.githubusercontent.com/47680160/190920181-87ff5992-35d8-4069-9fbd-4650ae5b0317.jpg)
+
 
 
 <h3>A passionate frontend developer</h3>
